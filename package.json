@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/404-kid/vue-cubed-src"
   },
+  "main" : "index.js",
   "homepage": "http://vue-cubed.com/",
   "keywords": [
     "vue-cubed",
