@@ -38,6 +38,7 @@ From here on in you can create objects and manipulate the scene as you please.
 
 ## More info
 [Repository](https://github.com/404-kid/vue-cubed-src)
+
 [Website(under construction)](http://vue-cubed.com/)
 
 This npm package uses Three.js please check out some of their [examples](https://threejs.org/)
