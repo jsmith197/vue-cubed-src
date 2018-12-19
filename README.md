@@ -36,8 +36,14 @@ this.$renderer (the global renderer, MAKE SURE TO CALL this.$renderer.render(thi
 ```
 From here on in you can create objects and manipulate the scene as you please.
 
+## More info
+[Repository](https://github.com/404-kid/vue-cubed-src)
+[Website(under construction)](http://vue-cubed.com/)
+
+This npm package uses Three.js please check out some of their [examples](https://threejs.org/)
 
 
 ### TODO
 Create obj registry for object pooling to reduce scene switching load times.
+
 Create animation manager.
