@@ -1,6 +1,6 @@
 {
   "name": "vue-cubed",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "A plugin for Vue to make creating 3D websites easier.",
   "license": "MIT",
   "author": "Job Smith <vuecubed@gmail.com>",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/404-kid/vue-cubed-src"
   },
-  "main" : "index.js",
+  "main": "index.js",
   "homepage": "http://vue-cubed.com/",
   "keywords": [
     "vue-cubed",
