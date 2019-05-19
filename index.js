@@ -47,6 +47,9 @@ export default {
 
       vue.component('Cone', {
         name: "cone",
+        render: function (createElement) {
+          return createElement('div')
+        },
         props: {
           color: {
             type: String,
